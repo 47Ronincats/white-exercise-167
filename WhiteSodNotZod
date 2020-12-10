@@ -3,7 +3,7 @@
 //PURPOSE: Calculate and display detailed information of Taco purchasing.
 //STARTDATE: 12/3/2020
 
-package edu.cpt167.white.exercise5;
+package edu.cpt167.white.exercise6;
 
 import java.util.Scanner;
 
